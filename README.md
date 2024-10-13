@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a Task Manager application that allows users to manage their tasks efficiently. It consists of a backend built with Laravel and a frontend developed using Vue.js (or React). 
+This is a Task Manager application that allows users to manage their tasks efficiently. It consists of a backend built with Laravel and a frontend developed using React. 
 
 ## Features
 
@@ -14,7 +14,7 @@ This is a Task Manager application that allows users to manage their tasks effic
 - **Database Schema:**
   - Users and tasks tables with appropriate relationships.
 - **Authentication:**
-  - User authentication implemented using Laravel Passport.
+  - User authentication implemented using Laravel Sanctum.
 
 ### Frontend Development
 - **Single Page Application (SPA):**
@@ -23,7 +23,7 @@ This is a Task Manager application that allows users to manage their tasks effic
   - Edit an existing task.
   - Delete a task.
 - **UI/UX:**
-  - Responsive design using Bootstrap (or Tailwind CSS).
+  - Responsive design using Tailwind CSS.
 
 ## Deployment
 
@@ -43,9 +43,9 @@ Instructions on how to deploy the application on platforms like Heroku or Digita
 1. Clone the repository.
 2. Navigate to the `backend` directory.
 3. Install dependencies using Composer:
-   ```bash
-   composer install
-    ```
+ ```bash
+ composer install
+ ```
 4. Setup .env copy .env.example to .env
 ```bash
 cp .env.example .env
@@ -63,9 +63,9 @@ php artisan serve
 1. Clone the repository.
 2. Navigate to the `task-manager-frontend` directory.
 3. Install dependencies using npm:
-   ```bash
-    npm install
-    ```
+```bash
+npm install
+```
 4. Start the development server
 ```bash
 npm run start
