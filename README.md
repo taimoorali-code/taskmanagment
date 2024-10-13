@@ -18,6 +18,8 @@ This is a Task Manager application that allows users to manage their tasks effic
 
 ### Frontend Development
 - **Single Page Application (SPA):**
+
+  - User Login & Registeration.
   - View all tasks.
   - Add a new task.
   - Edit an existing task.
