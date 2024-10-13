@@ -25,18 +25,6 @@ This is a Task Manager application that allows users to manage their tasks effic
 - **UI/UX:**
   - Responsive design using Tailwind CSS.
 
-## Deployment
-
-Instructions on how to deploy the application on platforms like Heroku or DigitalOcean will be provided here.
-
-## API Documentation
-
-### Endpoints
-- **Create Task:** `POST /api/tasks`
-- **Get All Tasks:** `GET /api/tasks`
-- **Update Task:** `PUT /api/tasks/{id}`
-- **Delete Task:** `DELETE /api/tasks/{id}`
-
 ## Setup Instructions
 
 ### Backend
@@ -70,3 +58,7 @@ npm install
 ```bash
 npm run start
 ```
+
+## Deployment
+
+Instructions on how to deploy the application on platforms like Heroku or DigitalOcean will be provided here.
