@@ -64,3 +64,6 @@ npm run start
 ## Deployment
 
 Instructions on how to deploy the application on platforms like Heroku or DigitalOcean will be provided here.
+
+For more information on deploying to DigitalOcean, you can visit:  
+[DigitalOcean Cloud](https://try.digitalocean.com/cloud/?utm_campaign=apac_brand_kw_en_cpc&utm_adgroup=digitalocean_exact_phrase&_keyword=digitalocean&_device=c&_adposition=&utm_content=conversion&utm_medium=cpc&utm_source=google&gad_source=1&gclid=CjwKCAjw3624BhBAEiwAkxgTOoy__CbvaVBZKzJvQ3w23AfEkbFQB7sp5Rdi5_XV_Zv9UoFcI_bqFBoC4igQAvD_BwE)
